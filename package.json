@@ -1,0 +1,14 @@
+{
+  "name": "bot-momo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Raditya",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.0-dev.1634774721.579569a"
+  }
+}
